@@ -17,8 +17,14 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
+      },
+    {
+        "nombre": "JorgeRomano",
+        "usuario_github": "jorgeromano-1",
+        "lenguaje_favorito": "C++",
+        "frase_motivacional": "Jamas se termina de aprender",
+        "fecha_contribucion": "22 de Mayo de 2025"
       }
-  
     ],
     "conceptos_git_practicados": [
       "git clone",
