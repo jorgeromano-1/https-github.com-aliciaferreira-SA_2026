@@ -17,8 +17,15 @@
         "lenguaje_favorito": "PHP",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
-      }
-  
+      },
+    {
+      "nombre": "Silvina Molinaro ",
+      "usuario_github":"molinarosilvina85-tech",
+      "lenguaje favorito": "PHP",
+      "frase motivacional": "Un commit a la vez, construyendo el futuro del codigo",
+      "fecha_contribucion": "26 de Noviembre de 2026"
+
+    }
     ],
     "conceptos_git_practicados": [
       "git clone",
@@ -32,7 +39,7 @@
     "recursos_adicionales": {
       "documentacion_git": "https://git-scm.com/doc",
       "tutorial_interactivo": "https://learngitbranching.js.org/",
-      "cheat_sheet": "https://education.github.com/git-cheat-sheet-education.pdf"
+      "cheat_sheetgit": "https://education.github.com/git-cheat-sheet-education.pdf"
     },
     "reglas_contribucion": {
       "formato_commit": "Usar mensajes descriptivos en inglés",
