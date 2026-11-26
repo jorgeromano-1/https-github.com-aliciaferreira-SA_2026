@@ -15,7 +15,6 @@
         "nombre": "Alicia",
         "usuario_github": "aliciaferreira",
         "lenguaje_favorito": "PHP",
-        "me gustaria trabajar de": "Analista de Sistemas",
         "frase_motivacional": "¡Nadie se salva solo!",
         "fecha_contribucion": "22 de Mayo de 2025"
       },
@@ -23,6 +22,7 @@
       "nombre": "Silvina Molinaro ",
       "usuario_github":"molinarosilvina85-tech",
       "lenguaje favorito": "PHP",
+      "me gustaria trabajar de": "Analista de Sistemas",
       "frase motivacional": "Un commit a la vez, construyendo el futuro del codigo",
       "fecha_contribucion": "26 de Noviembre de 2026"
 
